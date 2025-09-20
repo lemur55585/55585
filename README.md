@@ -23,6 +23,30 @@
 - [Rozdział XVIII – Sądownictwo](#rozdział-xviii--sądownictwo)
 - [Rozdział XIX – Wolność i prawa obywateli](#rozdział-xix--wolność-i-prawa-obywateli)
 - [Rozdział XX – Obowiązki obywateli](#rozdział-xx--obowiązki-obywateli)
+- [Rozdział XXI – Środowisko](#rozdział-xxi--środowisko)
+- [Rozdział XXII – Kultura i sztuka](#rozdział-xxii--kultura-i-sztuka)
+- [Rozdział XXIII – Sport](#rozdział-xxiii--sport)
+- [Rozdział XXIV – Nauka i badania](#rozdział-xxiv--nauka-i-badania)
+- [Rozdział XXV – Infrastruktura](#rozdział-xxv--infrastruktura)
+- [Rozdział XXVI – Telekomunikacja](#rozdział-xxvi--telekomunikacja)
+- [Rozdział XXVII – Przemysł](#rozdział-xxvii--przemysł)
+- [Rozdział XXVIII – Bezpieczeństwo cybernetyczne](#rozdział-xxviii--bezpieczeństwo-cybernetyczne)
+- [Rozdział XXIX – Turystyka](#rozdział-xxix--turystyka)
+- [Rozdział XXX – Gospodarka cyfrowa](#rozdział-xxx--gospodarka-cyfrowa)
+- [Rozdział XXXI – System podatkowy](#rozdział-xxxi--system-podatkowy)
+- [Rozdział XXXII – Bankowość](#rozdział-xxxii--bankowość)
+- [Rozdział XXXIII – Ubezpieczenia](#rozdział-xxxiii--ubezpieczenia)
+- [Rozdział XXXIV – Praca i zatrudnienie](#rozdział-xxxiv--praca-i-zatrudnienie)
+- [Rozdział XXXV – System emerytalny](#rozdział-xxxv--system-emerytalny)
+- [Rozdział XXXVI – Ochrona konsumenta](#rozdział-xxxvi--ochrona-konsumenta)
+- [Rozdział XXXVII – Media i komunikacja](#rozdział-xxxvii--media-i-komunikacja)
+- [Rozdział XXXVIII – Religia i wyznania](#rozdział-xxxviii--religia-i-wyznania)
+- [Rozdział XXXIX – Polityka zagraniczna](#rozdział-xxxix--polityka-zagraniczna)
+- [Rozdział XL – Współpraca międzynarodowa](#rozdział-xl--współpraca-międzynarodowa)
+- [Rozdział XLI – Prawo własności intelektualnej](#rozdział-xli--prawo-własności-intelektualnej)
+- [Rozdział XLII – Nauka i edukacja wyższa](#rozdział-xlii--nauka-i-edukacja-wyższa)
+- [Rozdział XLIII – Ochrona danych osobowych](#rozdział-xliii--ochrona-danych-osobowych)
+- [Rozdział XLIV – Prawo lotnicze](#rozdział-xliv--prawo-lotnicze)
 
 ---
 
@@ -82,7 +106,7 @@ Państwo ma prawo interweniować w gospodarkę w celu zapewnienia jej stabilnoś
 
 ## Rozdział V – Sankcje
 **Art. 15**  
-Za naruszenie prawa przewidziane są sankcje: ostrzeżenie, grzywna, konfiskata lub ban.
+Za naruszenie prawa przewidziane są sankcje: ostrzeżenie, grzywna, konfiskata lub banicja.  
 
 **Art. 16**  
 Naruszenie przepisów dotyczących transakcji skutkuje najwyższym wymiarem sankcji finansowych.  
@@ -232,4 +256,226 @@ Wszystkie wpłaty podatków, opłat i innych świadczeń obywatelskich przechodz
 Obywatel ma obowiązek zgłaszać wszelkie nielegalne transakcje administracji państwowej.  
 
 **Art. 50**  
-Państwo może egzekwować przepisy w sposób bezpośredni lub poprzez systemy automatyczne kontrolujące transakcje.
+Państwo może egzekwować przepisy w sposób bezpośredni lub poprzez systemy automatyczne kontrolujące transakcje.  
+
+---
+
+## Rozdział XXI – Środowisko
+**Art. 51**  
+Państwo dba o ochronę środowiska i zasobów naturalnych.  
+
+**Art. 52**  
+Wszelkie transakcje dotyczące ochrony środowiska lub pozyskiwania zasobów naturalnych przechodzą przez państwo.  
+
+**Art. 53**  
+Zakazane są działania zagrażające ekosystemom bez zgody państwa.  
+
+---
+
+## Rozdział XXII – Kultura i sztuka
+**Art. 54**  
+Państwo wspiera rozwój kultury i sztuki.  
+
+**Art. 55**  
+Finansowanie projektów artystycznych i transakcje związane z dziełami sztuki przechodzą przez państwo.  
+
+**Art. 56**  
+Nielegalny handel dziełami sztuki jest zakazany.  
+
+---
+
+## Rozdział XXIII – Sport
+**Art. 57**  
+Państwo wspiera rozwój sportu i aktywności fizycznej.  
+
+**Art. 58**  
+Wszystkie transakcje dotyczące finansowania klubów, zawodników i imprez sportowych przechodzą przez państwo.  
+
+---
+
+## Rozdział XXIV – Nauka i badania
+**Art. 59**  
+Rozwój nauki i badań naukowych jest priorytetem państwa.  
+
+**Art. 60**  
+Transakcje finansujące badania naukowe i granty przechodzą przez państwo.  
+
+---
+
+## Rozdział XXV – Infrastruktura
+**Art. 61**  
+Państwo odpowiada za rozwój i utrzymanie infrastruktury publicznej.  
+
+**Art. 62**  
+Wszystkie transakcje dotyczące budowy, utrzymania i modernizacji infrastruktury przechodzą przez państwo.  
+
+---
+
+## Rozdział XXVI – Telekomunikacja
+**Art. 63**  
+Państwo reguluje systemy telekomunikacyjne i internetowe.  
+
+**Art. 64**  
+Wszelkie transakcje związane z usługami telekomunikacyjnymi przechodzą przez państwo.  
+
+---
+
+## Rozdział XXVII – Przemysł
+**Art. 65**  
+Przemysł krajowy podlega nadzorowi państwa.  
+
+**Art. 66**  
+Wszystkie transakcje produkcyjne, zakupowe i eksportowe przechodzą przez państwo.  
+
+---
+
+## Rozdział XXVIII – Bezpieczeństwo cybernetyczne
+**Art. 67**  
+Państwo zapewnia bezpieczeństwo systemów cyfrowych.  
+
+**Art. 68**  
+Wszelkie transakcje związane z cyberbezpieczeństwem przechodzą przez państwo.  
+
+---
+
+## Rozdział XXIX – Turystyka
+**Art. 69**  
+Państwo wspiera rozwój turystyki.  
+
+**Art. 70**  
+Wszystkie opłaty, bilety i transakcje związane z turystyką przechodzą przez państwo.  
+
+---
+
+## Rozdział XXX – Gospodarka cyfrowa
+**Art. 71**  
+Państwo kontroluje handel cyfrowy i e-usługi.  
+
+**Art. 72**  
+Wszystkie płatności cyfrowe przechodzą przez państwowy system finansowy.  
+
+---
+
+## Rozdział XXXI – System podatkowy
+**Art. 73**  
+Podatki ustalane są przez władzę centralną państwa.  
+
+**Art. 74**  
+Wszystkie wpłaty podatkowe przechodzą przez państwo.  
+
+---
+
+## Rozdział XXXII – Bankowość
+**Art. 75**  
+System bankowy podlega regulacjom państwa.  
+
+**Art. 76**  
+Wszelkie transakcje bankowe i przelewy przechodzą przez państwo.  
+
+---
+
+## Rozdział XXXIII – Ubezpieczenia
+**Art. 77**  
+Państwo nadzoruje sektor ubezpieczeniowy.  
+
+**Art. 78**  
+Wszystkie płatności ubezpieczeniowe przechodzą przez państwo.  
+
+---
+
+## Rozdział XXXIV – Praca i zatrudnienie
+**Art. 79**  
+Państwo reguluje rynek pracy i prawa pracowników.  
+
+**Art. 80**  
+Wszystkie transakcje związane z wynagrodzeniami i świadczeniami przechodzą przez państwo.  
+
+---
+
+## Rozdział XXXV – System emerytalny
+**Art. 81**  
+Państwo zapewnia system emerytalny dla obywateli.  
+
+**Art. 82**  
+Wszystkie wpłaty i świadczenia emerytalne przechodzą przez państwo.  
+
+---
+
+## Rozdział XXXVI – Ochrona konsumenta
+**Art. 83**  
+Państwo chroni prawa konsumentów.  
+
+**Art. 84**  
+Wszystkie transakcje handlowe podlegają kontroli państwa.  
+
+---
+
+## Rozdział XXXVII – Media i komunikacja
+**Art. 85**  
+Państwo reguluje media i komunikację publiczną.  
+
+**Art. 86**  
+Wszelkie płatności, reklamy i transakcje medialne przechodzą przez państwo.  
+
+---
+
+## Rozdział XXXVIII – Religia i wyznania
+**Art. 87**  
+Państwo zapewnia wolność wyznania zgodnie z prawem.  
+
+**Art. 88**  
+Transakcje finansowe związane z działalnością religijną przechodzą przez państwo.  
+
+---
+
+## Rozdział XXXIX – Polityka zagraniczna
+**Art. 89**  
+Państwo prowadzi politykę zagraniczną w interesie obywateli.  
+
+**Art. 90**  
+Wszystkie transakcje i umowy międzynarodowe przechodzą przez państwo.  
+
+---
+
+## Rozdział XL – Współpraca międzynarodowa
+**Art. 91**  
+Państwo uczestniczy w organizacjach międzynarodowych.  
+
+**Art. 92**  
+Wszystkie płatności i umowy z zagranicą przechodzą przez państwo.  
+
+---
+
+## Rozdział XLI – Prawo własności intelektualnej
+**Art. 93**  
+Państwo chroni prawa autorskie, patenty i znaki towarowe.  
+
+**Art. 94**  
+Transakcje dotyczące własności intelektualnej przechodzą przez państwo.  
+
+---
+
+## Rozdział XLII – Nauka i edukacja wyższa
+**Art. 95**  
+Uniwersytety i instytuty badawcze podlegają państwowej kontroli.  
+
+**Art. 96**  
+Wszelkie dotacje i transakcje finansowe przechodzą przez państwo.  
+
+---
+
+## Rozdział XLIII – Ochrona danych osobowych
+**Art. 97**  
+Państwo chroni prywatność obywateli.  
+
+**Art. 98**  
+Wszystkie transakcje związane z przetwarzaniem danych osobowych przechodzą przez państwo.  
+
+---
+
+## Rozdział XLIV – Prawo lotnicze
+**Art. 99**  
+Ruch lotniczy i lotniska podlegają regulacjom państwa.  
+
+**Art. 100**  
+Wszelkie transakcje związane z lotnictwem przechodzą przez państwo.  
