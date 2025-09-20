@@ -82,7 +82,7 @@ Państwo ma prawo interweniować w gospodarkę w celu zapewnienia jej stabilnoś
 
 ## Rozdział V – Sankcje
 **Art. 15**  
-Za naruszenie prawa przewidziane są sankcje: ostrzeżenie, grzywna, konfiskata lub banicja.  
+Za naruszenie prawa przewidziane są sankcje: ostrzeżenie, grzywna, konfiskata lub ban.
 
 **Art. 16**  
 Naruszenie przepisów dotyczących transakcji skutkuje najwyższym wymiarem sankcji finansowych.  
